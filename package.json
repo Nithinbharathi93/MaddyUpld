@@ -1,0 +1,14 @@
+{
+  "name": "backend_connector",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "y",
+  "scripts": {
+    "test": "yes"
+  },
+  "author": "Nithinbharathi93",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
